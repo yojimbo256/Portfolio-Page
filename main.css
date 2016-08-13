@@ -1,0 +1,78 @@
+.navbar-default{
+  background-color:white;
+  padding:4px;
+  opacity:.7;
+}
+
+.main{
+  background-color:red;
+}
+
+body{
+  background: blue;
+  padding-top:0px;
+  padding-bottom:0px;
+}
+
+.container-fluid{
+  padding:0px;
+}
+
+.article{
+  padding:1em;
+}
+
+#section1{
+  background-image: url("http://res.cloudinary.com/yojimbo256/image/upload/v1470359271/Big_Island_066_ffugyc.jpg");
+  background-size:cover;
+  background-position:center center;
+  background-attachment:fixed;
+  min-height:400px;
+}
+
+#section2{
+  background-color:white;
+  min-height:600px;
+}
+
+#section3{
+    background-image: url("http://res.cloudinary.com/yojimbo256/image/upload/v1470360876/Hawaii_2011-2014_196_edited_iaqvyo.jpg");
+  background-size:cover;
+  background-position:center center;
+  background-attachment:fixed;
+  min-height:400px;
+}
+
+.inner{
+  position:relative;  
+  height:auto; 
+  margin:0 auto; 
+  width:auto;
+  padding:100px;
+}
+
+.inner2{
+  position:relative;  
+  height:auto; 
+  margin:0 auto; 
+  width:auto;
+  padding:auto;
+  text-align:center;
+}
+
+#logo{
+  color:blue;
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
+h1, h3, p{
+  text-align:center;
+  color:black;
+}
+
+
+footer{
+  background-color:white;
+  padding:1em;
+}
+
